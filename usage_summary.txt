@@ -1,0 +1,116 @@
+##############################
+Login count: 1
+Logout count: 0
+
+Machine Usage Summary:
+Machine: jk - Usage Count: 1
+
+Login Members:
+['farhad']
+
+Logout Members:
+[]
+
+Machines Used:
+['jk']
+##############################
+##############################
+Login count: 1
+Logout count: 1
+
+Machine Usage Summary:
+Machine: jk - Usage Count: 1
+
+Login Members:
+['farhad']
+
+Logout Members:
+['billah']
+
+Machines Used:
+['jk']
+##############################
+##############################
+Login count: 2
+Logout count: 1
+
+Machine Usage Summary:
+Machine: jk - Usage Count: 2
+
+Login Members:
+['farhad', 'billah']
+
+Logout Members:
+['billah']
+
+Machines Used:
+['jk', 'jk']
+##############################
+##############################
+Login count: 1
+Logout count: 0
+
+Machine Usage Summary:
+Machine: windows 10 - Usage Count: 1
+
+Login Members:
+['Md. Farhad Billah']
+
+Logout Members:
+[]
+
+Machines Used:
+['windows 10']
+##############################
+##############################
+Login count: 2
+Logout count: 0
+
+Machine Usage Summary:
+Machine: windows 10 - Usage Count: 1
+Machine: windows 11 - Usage Count: 1
+
+Login Members:
+['Md. Farhad Billah', 'Farhad']
+
+Logout Members:
+[]
+
+Machines Used:
+['windows 10', 'windows 11']
+##############################
+##############################
+Login count: 2
+Logout count: 1
+
+Machine Usage Summary:
+Machine: windows 10 - Usage Count: 1
+Machine: windows 11 - Usage Count: 1
+
+Login Members:
+['Md. Farhad Billah', 'Farhad']
+
+Logout Members:
+['Billah']
+
+Machines Used:
+['windows 10', 'windows 11']
+##############################
+##############################
+Login count: 3
+Logout count: 1
+
+Machine Usage Summary:
+Machine: windows 10 - Usage Count: 1
+Machine: windows 11 - Usage Count: 1
+Machine: windows 09 - Usage Count: 1
+
+Login Members:
+['Md. Farhad Billah', 'Farhad', 'Faru']
+
+Logout Members:
+['Billah']
+
+Machines Used:
+['windows 10', 'windows 11', 'windows 09']
+##############################
